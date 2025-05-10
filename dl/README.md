@@ -48,4 +48,4 @@
 ||超级文本替换<br />UltraReplace||
 ||批量重命名<br />Bulk Rename Utility||
 ||Bat2Exe Converter||
-||NSSM||
+||NSSM|[down](https://git.221220.xyz/https://raw.githubusercontent.com/cracada/soft/main/dl/nssm-2.24.zip)|
