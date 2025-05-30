@@ -50,4 +50,6 @@
 ||批量重命名<br />Bulk Rename Utility|[▼](https://raw.githubusercontent.com/cracada/soft/main/dl/BulkRenameUtility_v3.4.3.0.rar)|
 ||Bat2Exe Converter|[▼](https://raw.githubusercontent.com/cracada/soft/main/dl/Bat2ExeConverter_v3.2.zip)|
 ||NSSM|[▼](https://raw.githubusercontent.com/cracada/soft/main/dl/nssm-2.24.zip)|
+||Everedit x64 4500|[▼](https://raw.githubusercontent.com/cracada/soft/main/dl/everedit_win64_4500_portable.zip)|
+||Uedit32 v8.20|[▼](https://raw.githubusercontent.com/cracada/soft/main/dl/UEDIT32-v8.20.rar)|
 ||Notepad3|[▼](https://raw.githubusercontent.com/cracada/soft/main/dl/Notepad3_6.24.1221.1_x64_Portable.zip)|
